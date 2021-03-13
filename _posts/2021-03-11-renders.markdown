@@ -6,3 +6,12 @@ categories: jekyll update
 ---
 
 ![Teapot](/assets/images/renders/my-scene-2019-10-07-21-48-15.png)
+
+![Blended Material](/assets/images/renders/blend-2019-10-07-16-20-45.png)
+
+![Phong Reflections](/assets/images/renders/phong-2019-10-15-16-47-52.png)
+
+![Veach MIS](/assets/images/renders/veach_mis-2019-10-29-14-27-28.png)
+
+![Odyssey MIS](/assets/images/renders/odyssey_mis-2019-10-30-11-40-52.png)
+
