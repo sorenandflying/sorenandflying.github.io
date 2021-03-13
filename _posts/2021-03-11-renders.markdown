@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Renders"
+date:   2021-03-11 21:47:39 -0900
+categories: jekyll update
+---
+
+![Teapot](/assets/images/renders/my-scene-2019-10-07-21-48-15.png)
